@@ -30,8 +30,8 @@ int analogRainPin = 27;
 //********************************************
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "ONEPLUS";
-char pass[] = "ONEPLUS123";
+char ssid[] = "";
+char pass[] = "";
 
 BlynkTimer timer;
 //***********temp*******************
