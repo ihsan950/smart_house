@@ -20,8 +20,8 @@
 
 //Your WiFi Credentials.
 //Set password to "" for open networks.
-char ssid[] = "ONEPLUS";
-char pass[] = "ONEPLUS123";
+char ssid[] = "";
+char pass[] = "";
 
 # define the GPIO connected with Sensors & LEDs
 #define MQ2_SENSOR    A0 //A0
